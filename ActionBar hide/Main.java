@@ -1,0 +1,1 @@
+getActionBar().hide(); 
